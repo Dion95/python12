@@ -1,12 +1,58 @@
-"ID":["1","2","3","4","5","6","7","8" ],
-"Name":["Rick","Dan","Michelle","Ryan","Gary","Nin
-a","Simon","Guru" ]
-"Salary":["623.3","515.2","611","729","843.25","57
-8","632.8","722.5" ],
-"StartDate":[
-"1/1/2012","9/23/2013","11/15/2014","5/11/2014","3
-/27/2015","5/21/2013",
-"7/30/2013","6/17/2014"],
-"Dept":[
-"IT","Operations","IT","HR","Finance","IT","Operat
-ions","Finance"]
+[
+ {
+   "id": 1,
+   "name": "Rick",
+   "salary": 623.3,
+   "start_date": "1/1/2012",
+   "dept": "  IT"
+ },
+ {
+   "id": 2,
+   "name": "Dan",
+   "salary": 515.2,
+   "start_date": "23-09-13",
+   "dept": "Operations"
+ },
+ {
+   "id": 3,
+   "name": "Tusar",
+   "salary": 611,
+   "start_date": "15-11-14",
+   "dept": "IT"
+ },
+ {
+   "id": 4,
+   "name": "Ryan",
+   "salary": 729,
+   "start_date": "11/5/2014",
+   "dept": "HR"
+ },
+ {
+   "id": 5,
+   "name": "Gary",
+   "salary": 843.25,
+   "start_date": "27-03-15",
+   "dept": "Finance"
+ },
+ {
+   "id": 6,
+   "name": "Rasmi",
+   "salary": 578,
+   "start_date": "21-05-13",
+   "dept": "it"
+ },
+ {
+   "id": 7,
+   "name": "Pranab",
+   "salary": 632.8,
+   "start_date": "30-07-13",
+   "dept": "Operations"
+ },
+ {
+   "id": 8,
+   "name": "Guru",
+   "salary": 722.5,
+   "start_date": "17-06-14",
+   "dept": "Finance"
+ }
+]
